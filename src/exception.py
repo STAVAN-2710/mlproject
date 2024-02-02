@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 import logging
 import logger
 
@@ -28,5 +29,11 @@ class CustomException(Exception):
         return self.error_message            # Return the error message
     
 
+# if __name__ == '__main__':
 
+#     try:
+#         a = 1/0
+#     except Exception as e:
+#         logging.info("Divide by zero")
+#         raise CustomException(e, sys)
         
