@@ -1,7 +1,7 @@
 import sys
 from src.logger import logging
 import logging
-import logger
+# import logger
 
 # whenever an error occurs i want my own custom message
 # has two parameters - error, and the error detail that is present with the sys.
