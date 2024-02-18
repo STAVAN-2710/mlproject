@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Stavan/Documents/PYTHON/Projects/mlproject/mlruns/0/664808c7f16e4618ad798afdb20e6ec1/artifacts
+end_time: 1708252226939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 664808c7f16e4618ad798afdb20e6ec1
+run_name: clean-shark-32
+run_uuid: 664808c7f16e4618ad798afdb20e6ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708252217910
+status: 3
+tags: []
+user_id: Stavan
