@@ -54,4 +54,4 @@ def predict_datapoint():
     
 # Run the Flask application if this is the main program
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")  # Makes the server publicly available
+    app.run(host="0.0.0.0", port = 8080)  # Makes the server publicly available
